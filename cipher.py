@@ -1,5 +1,5 @@
 #Alphabate are as below:
-alphabate = "abcdefghijklmnopqrstuvwxyz"
+alphabate = ("abcdefghijklmnopqrstuvwxyz")
 #Number of place needed to shift right is 5
 shift = 5
 #Get input from user
